@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá 👋, eu sou a Sabryna
 
-<!--
-**sabrynavn/sabrynavn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Front-End, trabalho com **HTML , CSS , JavaScript e React. Busco conhecimento para evoluir em desenvolvimento web e construir interfaces funcionais.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Contato: Sabrynanoronhav@gmail.com
+
+## Skills
+HTML • CSS • JavaScript (básico) • Git • Visual Design
+
+## Projetos em destaque
+- `portfolio` — Meu site pessoal  
+- `todo-js` — To-do list com DOM  
+- `api-app` — App consumindo API pública
+
+> Aberta a estágio remoto / part-time. Vamos conversar! ✨
