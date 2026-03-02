@@ -1,6 +1,9 @@
-# Olá 👋, eu sou a Sabryna
+# Olá , eu sou a Sabryna
+Estudante de Programação em constante evolução.
+Sou apaixonada por tecnologia e estou sempre em busca de novos conhecimentos e desafios que me ajudem a crescer como desenvolvedora.
+Aqui você encontrará meus projetos, estudos e minha evolução na área da tecnologia. 
+Sempre aprendendo
 
-Sou estudante de Front-End, trabalho com **HTML , CSS , JavaScript e React. Busco conhecimento para evoluir em desenvolvimento web e construir interfaces funcionais.
 
 
 - 📫 Contato: Sabrynanoronhav@gmail.com
