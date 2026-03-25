@@ -6,7 +6,7 @@
 ### Tecnologias e Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,react,git,github,firebase,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,react,git,github,firebase,html,css,java" />
 </p>
 
 ---
