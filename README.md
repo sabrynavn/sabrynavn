@@ -1,19 +1,38 @@
-# Olá , eu sou a Sabryna
-Estudante de Programação em constante evolução.
-Sou apaixonada por tecnologia e estou sempre em busca de novos conhecimentos e desafios que me ajudem a crescer como desenvolvedora.
-Aqui você encontrará meus projetos, estudos e minha evolução na área da tecnologia. 
-Sempre aprendendo
+<h1 align="center"> Sabryna Vasconcelos</h1>
+<h3 align="center">Software Developer | Python • JavaScript • React</h3>
 
+---
 
+### 🚀 Tecnologias e Ferramentas
 
-- 📫 Contato: Sabrynanoronhav@gmail.com
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,react,git,github" />
+</p>
 
-## Skills
-HTML • CSS • JavaScript (básico) • Git • Visual Design
+---
 
-## Projetos em destaque
-- `portfolio` — Meu site pessoal  
-- `todo-js` — To-do list com DOM  
-- `api-app` — App consumindo API pública
+### 
 
-> Aberta a estágio remoto / part-time. Vamos conversar! ✨
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrynaVN&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrynaVN&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### Conecte-se comigo
+
+<p align="center">
+
+<a href="https://github.com/SabrynaVN">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/sabryna-vasconcelos/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</p>
+
+---
+
