@@ -3,7 +3,7 @@
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,react,git,github" />
