@@ -30,6 +30,9 @@
 
 <a href="https://br.linkedin.com/in/sabryna-vasconcelos-26b229269?trk=public_profile_samename-profile">
 <img src="https://skillicons.dev/icons?i=linkedin" />
+
+<a href="sabrynanoronhav@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
