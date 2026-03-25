@@ -28,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/sabryna-vasconcelos/">
+<a href="https://br.linkedin.com/in/sabryna-vasconcelos-26b229269?trk=public_profile_samename-profile">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
