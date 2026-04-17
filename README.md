@@ -9,7 +9,6 @@
 <img src="https://skillicons.dev/icons?i=python,js,react,git,github,firebase,html,css,java" />
 </p>
 
----
 
 ### 
 
@@ -18,7 +17,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrynaVN&layout=compact&theme=tokyonight"/>
 </p>
 
----
+
 
 ### Conecte-se comigo
 
@@ -37,5 +36,5 @@
 
 </p>
 
----
+
 
