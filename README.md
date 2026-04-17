@@ -1,5 +1,5 @@
 <h1 align="center"> Sabryna Vasconcelos</h1>
-<h3 align="center">Software Developer | Python • JavaScript • React</h3>
+<h3 align="center">Software Developer </h3>
 
 ---
 
