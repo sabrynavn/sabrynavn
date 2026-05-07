@@ -1,5 +1,5 @@
 <h1 align="center"> Sabryna Vasconcelos</h1>
-<h3 align="center"> Desenvolvedora com experiência em front-end e back-end, atualmente focada na área de Cyber Security. Possuo sólida atuação no desenvolvimento de sites para empresas e na gestão de equipes técnicas </h3>
+<p> align="center"> Desenvolvedora com experiência em front-end e back-end, atualmente focada na área de Cyber Security. Possuo sólida atuação no desenvolvimento de sites para empresas e na gestão de equipes técnicas </p>
 
 ---
 
