@@ -6,11 +6,7 @@
     <p>Currently exploring Cybersecurity 🔐
     <p>Breaking things to learn how to protect them </p>
 </p>
-  </div>
-  <div> 
-    <img src="yolo.jpg" alt="yolo" width="265"/>
-  </div>
-</div>
+ 
 
 ---
 
