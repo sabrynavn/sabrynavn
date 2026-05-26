@@ -1,9 +1,20 @@
-<h1 align="center"> Sabryna Vasconcelos</h1>
-<p align="center"> Desenvolvedora com experiência em front-end e back-end, atualmente focada na área de Cyber Security. Possuo sólida atuação no desenvolvimento de sites para empresas e na gestão de equipes técnicas </p>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<div>
+  <div>
+    <p> Hi! I'm Sabryna 👩‍💻<img src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-xl.png" width="18" /></p>
+    <p> Systems Developer <b>| Brazil 🇧🇷</b> </p>
+    <p>Currently exploring Cybersecurity 🔐
+    <p>Breaking things to learn how to protect them </p>
+</p>
+  </div>
+  <div> 
+    <img src="yolo.jpg" alt="yolo" width="265"/>
+  </div>
+</div>
 
 ---
 
-### Tecnologias e Ferramentas
+### Technologies and Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,react,git,firebase,html,css,java,vite,vue.js" />
@@ -19,7 +30,7 @@
 
 
 
-### Conecte-se comigo
+### Connect with me
 
 <p align="center">
 
