@@ -16,16 +16,6 @@
 <img src="https://skillicons.dev/icons?i=python,js,react,git,firebase,html,css,java,vite,vue.js" />
 </p>
 
-
-### 
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabrynaVN&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrynaVN&layout=compact&theme=tokyonight"/>
-</p>
-
-
-
 ### Connect with me
 
 <p align="center">
