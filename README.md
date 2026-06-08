@@ -13,7 +13,7 @@
 ### Technologies and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,react,git,firebase,html,css,java,vite,vue.js" />
+<img src="https://skillicons.dev/icons?i=python,js,react,git,firebase,html,css,java,vite,cs" />
 </p>
 
 ### Connect with me
