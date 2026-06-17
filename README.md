@@ -10,13 +10,13 @@
 
 ---
 
-### Technologies and Tools
+### Technologies and Tools ۶ৎ
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,react,git,firebase,html,css,java,vite,cs" />
 </p>
 
-### Connect with me
+### Connect with me 
 
 <p align="center">
 
