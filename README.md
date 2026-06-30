@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/cute-meow.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1> Hey! Nice to see you.</h1>
 <div>
   <div>
     <p> Hi! I'm Sabryna 👩‍💻<img src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-xl.png" width="18" /></p>
