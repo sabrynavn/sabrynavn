@@ -9,6 +9,18 @@
 <img src="https://skillicons.dev/icons?i=python,js,react,git,firebase,html,css,java,vite,cs" />
 </p>
 
+
+
+## 🌷 GitHub Stats
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabrynavn&theme=rose_pine"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabrynavn&theme=rose_pine"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabrynavn&theme=rose_pine"/>
+</p>
+
 ## Connect with me
 
 <p align="center">
@@ -26,17 +38,9 @@
 </a>
 
 </p>
-
-
-## 🌷 GitHub Stats
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabrynavn&theme=rose_pine"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabrynavn&theme=rose_pine"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabrynavn&theme=rose_pine"/>
-</p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD9&height=120&section=footer"/>
+
+
+
  
 
